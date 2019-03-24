@@ -47,8 +47,8 @@ Screenshot
 
 Two terminals (server/client) should look like below - 
 
-![Screenshot](screenshots/udp_server.PNG)
-![Screenshot](screenshots/udp_client.PNG)
+![Screenshot](images/udp_server.PNG)
+![Screenshot](images/udp_client.PNG)
 
 Resources
 ---
